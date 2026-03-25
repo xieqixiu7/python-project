@@ -1,11 +1,17 @@
-# Python 项目
-![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Repo-green?logo=github)
-> 我的第一个 Python + Git + GitHub 实战项目
+# Python 基础爬虫项目 🐍
 
-## 📁 项目结构
-## 📖 目录
-- [项目介绍](#-项目介绍)
-- [如何运行](#-如何运行)
-- [功能模块](#-功能模块)
-- [贡献者](#-贡献者)
+一个用于学习 Python 网络请求和基础爬虫的小项目。
+
+## 🚀 当前功能
+
+- 使用 `requests` 库发送 HTTP GET 请求
+- 处理超时、连接错误等异常
+- 打印 JSON 响应内容
+- 支持自定义 URL 和超时时间
+
+## 📦 运行方式
+
+确保安装了依赖：
+
+```bash
+pip install requests
